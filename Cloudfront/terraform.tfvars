@@ -1,0 +1,5 @@
+bucket_name = "test-abbucket"
+acl = "private"
+cache_policy = "test-cache"
+policy_comment = "test policy for terraform"
+s3_origin_id = "myS3Origin"

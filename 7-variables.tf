@@ -10,7 +10,7 @@ variable "aws_region" {
 variable "aws_access_key" {
   description = "AWS Access Key ID"
   type        = string
-  default     = "AKIA2UC3DO7Y6JIU3IBD"
+  default     = ""
 }
 
 # This variable is a placeholder for the AWS Secret Access Key.
@@ -18,7 +18,7 @@ variable "aws_access_key" {
 variable "aws_secret_key" {
   description = "AWS Secret Access Key"
   type        = string
-  default     = "gFszdwkblWtIt+AjA9BWDnuKvHrsCfWP2gVTg893"
+  default     = ""
 }
 
 # Define a variable for the Environment
